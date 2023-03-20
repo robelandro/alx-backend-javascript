@@ -4,7 +4,7 @@
 
 ### 📓 what is ES6?
 
-ES6 is short for ECMAScript 6, which is a scripting language specification standardized by ECMA International1. It is used by applications to enable client-side scripting1. ES6 was released in 2015 and introduced many new features to JavaScript, such as arrow functions, spread operator, for/of loop, map objects, classes, promises, etc23. ES6 makes working with JavaScript easier and more readable.
+ES6 is short for ECMAScript 6, which is a scripting language specification standardized by ECMA International. It is used by applications to enable client-side scripting. ES6 was released in 2015 and introduced many new features to JavaScript, such as arrow functions, spread operator, for/of loop, map objects, classes, promises, etc23. ES6 makes working with JavaScript easier and more readable.
 
 ### 📓 what is Babel?
 
