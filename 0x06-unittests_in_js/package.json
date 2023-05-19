@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --color"
+    "test": "mocha"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
