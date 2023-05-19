@@ -14,4 +14,6 @@ describe('calculateNumber', () => {
   it('calculated', () => {
     assert.equal(calculateNumber(1.5, 3.7), 6);
   });
+  it("calculated", () => { 
+    assert.equal(calculateNumber(1.7, 3.2), 4)});
 });
